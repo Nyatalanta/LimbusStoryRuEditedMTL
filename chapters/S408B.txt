@@ -1,5 +1,5 @@
 # Original: <I mean… I don’t mind, but you two can’t hear me anyway.>
-Данте: <Как сказать... Я не разговора, но вы двое все равно меня не слышите.>
+Данте: <Как сказать... Я не против разговора, но вы двое все равно меня не слышите.>
 
 # Original: I was too embarrassed to bring it up in front of the whole group, but actually, one of your… employees was an old friend of mine.
 Донран: Мне было неловко упоминать об этом перед всей группой, но на самом деле один из ваших... сотрудников был моим старым другом.
@@ -278,10 +278,10 @@
 Грегор: ...Донран...
 
 # Original: I especially miss the plaque modeled after the face of my character, that was a favorite souvenir of mine.
-Донран: Особенно мне не хватает таблички, смоделированной по лицу моего персонажа, это был мой любимый сувенир.
+Донран: Особенно мне не хватает таблички, смоделированной по моему лицу, это был мой любимый сувенир.
 
 # Original: I’ll be stumped, I can’t tell how much of what he says is a joke and how much of it is serious.
-Грегор: Я в тупике, не могу понять сколько из того что он говорит является шуткой, а что — серьезным заявлением.
+Грегор: Я в тупике, не могу понять что из того что он говорит является шуткой, а что — серьезным заявлением.
 
 # Original: What about that seat, then?
 Отис: А что насчет этого места?
