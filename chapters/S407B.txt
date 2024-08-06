@@ -2,7 +2,7 @@
 Рассказчик: Когда бессмысленные разговоры подошли к концу, автобус лениво остановился.
 
 # Original: We’d arrived… in front of a building so tall that it would take a while to count the floors.
-Рассказчик: Мы прибыли... к зданию настолько высокому, что потребовалось бы время, чтобы сосчитать все этажи.
+Рассказчик: Мы прибыли... к зданию настолько высокому, что потребовалось бы много времени, чтобы сосчитать все этажи.
 
 # Original: A few shrank down as if intimidated.
 # (I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)
@@ -16,7 +16,7 @@
 Рассказчик: А некоторые другие шли и держались так, словно знали, что заслуживают королевского обращения.
 
 # Original: Fuhu, I guess we’ve earned some renown. We’re finally being invited to places regular people would live.
-Хон Лу: Фуху, похоже, мы заработали некоторую известность. Нас наконец-то приглашают туда, где живут обычные люди.
+Хон Лу: Фуфу, похоже, мы заработали некоторую известность. Нас наконец-то приглашают туда, где проживают обычные люди.
 
 # Original: Lemme make one thing clear… If the request and the reward’s a load of tosh like the last time, I’m out.
 Хитклиф: Давайте-ка проясним одну вещь... Если запрос и награда окажутся такой же чушью, как в прошлый раз, я ухожу.
@@ -31,10 +31,10 @@
 Данте: <Как и ожидалось?>
 
 # Original: That man is…
-Отис: Этот человек...
+Отис: Этот мужчина...
 
 # Original: It’s a pleasure to meet you again. I want you to know that this is my heartfelt sentiment and not a formality.
-Самджо: Рад снова встретиться с вами. Хочу, чтобы вы знали, что это мое искреннее чувство, а не формальность.
+Самджо: Рад вновь встретиться с вами. Хочу, чтобы вы знали, что это мои искренние чувства, а не формальность.
 
 # Original: A familiar face I never expected to see again greeted us.
 Рассказчик: Нас встретило знакомое лицо, которое я никак не ожидал увидеть снова.
@@ -43,7 +43,7 @@
 Хитклиф: ...Я ухожу. Я же уже сказал.
 
 # Original: <Give it a moment! Let’s at least hear what he has to say, okay?>
-Данте: <Подожди минутку! Давай хотя бы выслушаем, что он хочет сказать, ладно?>
+Данте: <Подожди немного! Давай хотя бы выслушаем, что он хочет сказать, ладно?>
 
 # Original: Let go! Do you even get how it feels to have nightmares about doing the tango with raw chickens? Huh?
 Хитклиф: Отпусти! Ты вообще понимаешь, каково это - видеть кошмары о танго с сырыми курицами? А?
@@ -55,19 +55,19 @@
 Самджо: И вы прошли его с блеском. Поздравляю. Это тоже искренне.
 
 # Original: Who are you to test and grade us?! You—
-Хитклиф: Кто ты такой, чтобы нас проверять и оценивать?! Ты...
+Хитклиф: Кто ты такой, чтобы нас проверять и оценивать?! Ты—
 
 # Original: That’s of course—
-Самджо: Это, конечно...
+Самджо: Это, конечно—
 
 # Original: That’s of course at the discretion of Mr. Samjo, my shrewd secretary. So you must be… from Limbus Company.
-Донран: Это, конечно, на усмотрение господина Самджо, моего проницательного секретаря. Так вы, должно быть... из Компании Лимбус.
+Донран: Это, конечно, на усмотрение мистера Самджо, моего проницательного секретаря. Так вы, должно быть... из Компании Лимбус.
 
 # Original: A pleasure to meet you, I’m Dongrang. I heard a lot about you from Samjo—it almost made me a fan.
-Донран: Приятно познакомиться, я Донран. Я много слышал о вас от Самджо - это почти сделало меня вашим фанатом.
+Донран: Приятно познакомиться, меня зовут Донран. Я много слышал о вас от Самджо - это почти сделало меня вашим фанатом.
 
 # Original: Fan??? Didst thou say just now that we have earned thine adoration?
-Дон Кихот: Фанатом??? Ты только что изрек, что мы заслужили твое обожание?
+Дон Кихот: Фанатом??? Вы только что изрекли, что мы заслужили ваше обожание?
 
 # Original: It’s just flattery, Don Quixote…
 Родион: Это просто лесть, Дон Кихот...
@@ -76,34 +76,34 @@
 Донран: Если быть совсем честным... тест был не моей идеей. В конце концов, вы не лабораторные курицы, и заслуживаете лучшего, чем недобровольные испытания.
 
 # Original: Indeed, it was my suggestion.
-Самджо: Действительно, это было моё предложение.
+Самджо: Верно, это было моё предложение.
 
 # Original: I had reason to do so as your “Limbus Company” is a little-known firm that… could or could not be newly established.
 Самджо: У меня была причина сделать это, так как ваша "Компания Лимбус" - малоизвестная фирма, которая... может быть, а может и не быть недавно созданной.
 
 # Original: We couldn’t take the risk of entrusting an unknown organization with a request on Mr. Dongrang’s word alone.
-Самджо: Мы не могли рисковать, доверяя неизвестной организации запрос только по слову господина Донрана.
+Самджо: Мы не могли рисковать, доверяя неизвестной организации запрос лишь по заверению мистера Донрана.
 
 # Original: Ahem… So, that means you’re requesting us…
-Ишмаэль: Кхм... Значит, это означает, что вы обращаетесь к нам...
+Ишмаэль: Кхм... Значит, это означает, что вы обращаетесь именно к нам...
 
 # Original: Ishmael asked for confirmation that this was indeed a direct request, her face seeming rather proud.
-Рассказчик: Ишмаэль попросила подтверждения, что это действительно прямой запрос, её лицо казалось довольно гордым.
+Рассказчик: Ишмаэль попросила подтверждения, что это действительно прямой запрос, с лицом кажущимся довольно гордым.
 
 # Original: Why, of course. Because, you all are…
 Донран: Ну конечно. Потому что вы все...
 
 # Original: …….
-Донран: ...….
+Донран: .......
 
 # Original: Ah, why don’t I show you to my lab? There are many fun things to see.
 Донран: А, почему бы мне не показать вам свою лабораторию? Там есть много интересного.
 
 # Original: <Changing the subject so shamelessly is only gonna bother us more…>
-Данте: <Менять тему так бесстыдно - это только больше нас побеспокоит...>
+Данте: <Менять тему так бесстыдно - это лишь побеспокоит нас еще больше...>
 
 # Original: Sorry? Are you really going to take these people to your laboratory?
-Самджо: Простите? Вы действительно собираетесь взять этих людей в свою лабораторию?
+Самджо: Простите? Вы действительно собираетесь привести этих людей в свою лабораторию?
 
 # Original: Why not? They passed your test, didn’t they, Mr. Samjo.
 Донран: Почему нет? Они прошли ваш тест, не так ли, господин Самджо.
@@ -112,13 +112,13 @@
 Донран: И если у них есть навыки, чтобы справиться с тем, что они назвали "Аномалией", как мы видели сегодня...
 
 # Original: Aha~ Thou hast heard? My, traces of heroic deeds indeed make themselves known to the masses in no time! Fufu…
-Дон Кихот: Аха~ Ты слышал? О, следы героических деяний воистину становятся известны массам в мгновение ока! Фуфу...
+Дон Кихот: Аха~ Вы слышали о нас? О, следы героических деяний воистину становятся известны массам в мгновение ока! Фуфу...
 
 # Original: Haha, that’s a fun way to put it.
 Донран: Ха-ха, забавно ты это сформулировала.
 
 # Original: Ah, and you must be the manager… it was Dante, yes? May we speak for a moment?
-Донран: Ах, и вы, должно быть, менеджер... Данте, верно? Можем ли мы поговорить минутку?
+Донран: Ах, и вы, должно быть, менеджер... Данте, верно? Можем ли мы поговорить наедине всего минутку?
 
 # Original: Faust tried to say something to Dongrang, but he and Samjo pulled me far away by the time she stepped forward.
-Рассказчик: Фауст попыталась что-то сказать Донрану, но он и Самджо увели меня далеко в сторону к тому времени, как она сделала шаг вперед.
+Рассказчик: Фауст попыталась что-то сказать Донрану, но он и Самджо увели меня далеко в сторону к тому времени, как она успела сделать шаг вперед.
