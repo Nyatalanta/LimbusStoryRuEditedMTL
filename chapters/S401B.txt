@@ -26,7 +26,7 @@
 И Сан: Время… повернуть часы вспять.
 
 # Original: I can hear Yi Sang, the only conscious Sinner at the moment, muster up his remaining strength to speak.
-Рассказчик: Я слышу, как И Сан, единственный из Грешников кто сейчас в сознании, собирает последние силы, чтобы говорить.
+Рассказчик: Я слышу, как И Сан, единственный из Грешников кто сейчас в сознании, собирает последние силы, чтобы сказать что-то еще.
 
 # Original: The others are on the floor among dismembered corpses like powerless puppets.
 Рассказчик: Остальные лежат на полу среди расчлененных трупов, словно бессильные марионетки.
